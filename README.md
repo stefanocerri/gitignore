@@ -1,2 +1,3 @@
-gitignore
-=========
+# .gitignore #
+
+Common rules for .gitignore
