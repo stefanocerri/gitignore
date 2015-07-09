@@ -7,7 +7,6 @@ Common rules for .gitignore
 - Logs
 - Node
 - OSX
-- Packages
 - Sass
 - Sitemap
 - Sublime Text
