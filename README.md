@@ -2,6 +2,7 @@
 
 Common rules for .gitignore
 
+- Atom
 - Database
 - Dropbox
 - Logs
