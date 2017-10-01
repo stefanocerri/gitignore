@@ -71,6 +71,7 @@ sitemap.*
 #########################################
 
 sftp-config.json
+sftp-config-alt.json
 *.sublime-workspace
 
 #########################################
