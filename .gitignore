@@ -99,7 +99,9 @@ $RECYCLE.BIN/
 # WordPress
 #########################################
 
-wp-config.php
+# wp-config.php
+
+wp-config-sample.php
 wp-content/uploads/
 wp-content/blogs.dir/
 wp-content/upgrade/
@@ -123,3 +125,5 @@ wp-settings.php
 wp-signup.php
 wp-cron.php
 index.php
+readme.html
+license.txt
