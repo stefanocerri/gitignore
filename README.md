@@ -6,8 +6,8 @@ Common rules for .gitignore
 - Database
 - Dropbox
 - Logs
+- MacOS
 - Node
-- OSX
 - Sass
 - Sitemap
 - Sublime Text

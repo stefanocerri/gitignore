@@ -6,6 +6,48 @@
 
 
 #########################################
+# WordPress
+#########################################
+
+# wp-config.php
+
+/wp-config-sample.php
+/wp-content/uploads/
+/wp-content/blogs.dir/
+/wp-content/upgrade/
+/wp-content/backup-db/
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+/wp-content/cache/
+/wp-content/backups/
+/wp-content/plugins/
+/wp-content/languages/
+/wp-content/index.php
+/wp-content/themes/index.php
+/wp-content/themes/twentyfifteen
+/wp-content/themes/twentyseventeen
+/wp-content/themes/twentysixteen
+/wp-admin
+/wp-includes
+/wp-activate.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/xmlrpc.php
+/wp-trackback.php
+/wp-settings.php
+/wp-signup.php
+/wp-cron.php
+/index.php
+/readme.html
+/license.txt
+/licenza.html
+
+
+#########################################
 # Database
 #########################################
 
@@ -39,7 +81,7 @@ node_modules
 
 
 #########################################
-# OSX
+# MacOS
 #########################################
 
 .DS_Store
@@ -93,37 +135,3 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
-
-#########################################
-# WordPress
-#########################################
-
-# wp-config.php
-
-wp-config-sample.php
-wp-content/uploads/
-wp-content/blogs.dir/
-wp-content/upgrade/
-wp-content/backup-db/
-wp-content/advanced-cache.php
-wp-content/wp-cache-config.php
-wp-content/cache/
-wp-content/backups/
-wp-admin
-wp-includes
-wp-activate.php
-wp-blog-header.php
-wp-comments-post.php
-wp-links-opml.php
-wp-load.php
-wp-login.php
-wp-mail.php
-xmlrpc.php
-wp-trackback.php
-wp-settings.php
-wp-signup.php
-wp-cron.php
-index.php
-readme.html
-license.txt
