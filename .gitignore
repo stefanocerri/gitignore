@@ -38,6 +38,7 @@
 /wp-mail.php
 /xmlrpc.php
 /wp-trackback.php
+/wp-salt.php
 /wp-settings.php
 /wp-signup.php
 /wp-cron.php
